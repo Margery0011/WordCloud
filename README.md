@@ -64,11 +64,15 @@ It will be update at 9:00 A.M everyday . You can also check the list of your cro
   ```
   wordcloud_cli --text my_current.txt --imagefile myimage.png
   ```
+  https://trgn.usc.edu/~yutianl/
+  https://github.com/amueller/word_cloud
+  https://www.nytimes.com/
+  https://www.vogue.com/
+  https://github.com/aaronsw/html2text 
   
   
 ## Contact
-
-yutianl@usc.edu.cn
+Please feel free to contact me by yutianl@usc.edu.cn
 
   
   
