@@ -78,8 +78,7 @@ It will be update at 9:00 A.M everyday . You can also check the list of your cro
 ## Contact
 Please feel free to contact me by 
 
-yutianl@usc.edu.cn
-
+yutianl@usc.edu
   
   
 
